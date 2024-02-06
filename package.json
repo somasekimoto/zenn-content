@@ -1,0 +1,16 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:somasekimoto/zenn-content.git",
+  "author": "somaseki",
+  "license": "MIT",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.153"
+  }
+}
